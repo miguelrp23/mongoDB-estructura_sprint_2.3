@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6701be7757b21587c1575f36"
+  },
+  "name": "ryban",
+  "address": [
+    {
+      "streed": "c´victoria ",
+      "number": "23",
+      "floor": "2",
+      "door": "2",
+      "city": "barcelona",
+      "postal_code": "081293",
+      "country": "españa"
+    }
+  ],
+  "phone": "68172389",
+  "fax": "83201941",
+  "NIF": "02318129D"
+}]

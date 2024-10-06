@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "670292faaba1348d36792408"
+  },
+  "name": "games",
+  "date": "10/08/2024",
+  "type": [
+    {
+      "public": "false",
+      "private": "true"
+    }
+  ]
+}]

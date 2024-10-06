@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6701d9ecf2122854abcc0e4b"
+  },
+  "name": "camilo",
+  "last_name": "romero",
+  "NIF": "238400A",
+  "phone": "68234013",
+  "type": [
+    {
+      "cook": "false",
+      "delivery": "true"
+    }
+  ]
+}]

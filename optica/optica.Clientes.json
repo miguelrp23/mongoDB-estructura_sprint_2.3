@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "66fe7d6b4a61dc51f09374b6"
+  },
+  "name": "julia lopez",
+  "tephone": "678921235",
+  "email": "julia23@gmail.com",
+  "register_date": "23/09/2023",
+  "last_shoppings": [
+    {
+      "marca": "rayban",
+      "graduationL": "2.3",
+      "graduationR": "2.0",
+      "glassL": "n/a",
+      "glassR": "n/a",
+      "frame_type": "metalic",
+      "price": "127.0"
+    }
+  ]
+}]

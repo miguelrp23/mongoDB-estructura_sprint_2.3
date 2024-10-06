@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6701dbac0ed91d99c58b0a56"
+  },
+  "email": "pilar291@gmail.com",
+  "password": "3924093",
+  "user": "pil691",
+  "date": "30/07/2008",
+  "gender": "female",
+  "country": "mexico",
+  "postal_code": "820192"
+},
+{
+  "_id": {
+    "$oid": "67028d8736340f2e5ea342f2"
+  },
+  "email": "victor542@gmail.com",
+  "password": "9032834c",
+  "user": "v9ictorgamer",
+  "date": "30/07/1999",
+  "gender": "male",
+  "country": "argentina",
+  "postal_code": "8934241",
+  "upload_video": [
+    {
+      "title": "new_video",
+      "description": "new_game",
+      "size": "320mb",
+      "name": "vid_381039.mp4",
+      "reproductions": "19032810",
+      "likes": "78498",
+      "dislikes": "562"
+    }
+  ]
+}]
