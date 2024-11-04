@@ -1,9 +1,13 @@
 [{
   "_id": {
-    "$oid": "6701bc964d893f2d80a4c563"
+    "$oid": "672811b64b8f35437f748a63"
   },
-  "brand": "ryban",
-  "frame": "metallic",
-  "provider": "ryban",
-  "price": "105.75"
+  "marca": "ryban",
+  "graduationL": "2.3",
+  "graduationR": "2.0",
+  "type": "floting, paste, metalic",
+  "color": "black",
+  "glass_colorL": "n/a",
+  "glass_colorR": "n/a",
+  "price": "105,75"
 }]

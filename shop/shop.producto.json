@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "67280defa5ddcb9ab75e3523"
+  },
+  "name": "pizza",
+  "description": [
+    {
+      "carne": "carne, queso, salsa tomate, maiz",
+      "BBQ": "carne, BBQ, salchichas, chorizo, queso, cebolla",
+      "queso": "queso, salsa tomate, extra queso, oregano"
+    }
+  ],
+  "image": "pizza.png",
+  "price": "6.50"
+},
+{
+  "_id": {
+    "$oid": "67280e54a5ddcb9ab75e3524"
+  },
+  "name": "hamburgesa",
+  "description": "carne, queso, lechuga, tomate, pan",
+  "image": "hamburgesa.png",
+  "price": "7.50"
+},
+{
+  "_id": {
+    "$oid": "67280e7aa5ddcb9ab75e3525"
+  },
+  "name": "bebida",
+  "description": "sprite, coca-cola, fanta",
+  "image": "bebida.png",
+  "price": "3"
+}]

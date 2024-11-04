@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "67163a41c17104c788ed8fa0"
+  },
+  "date": "23/06/2020",
+  "type": "shop",
+  "amount": "3",
+  "price": "30",
+  "client": [
+    {
+      "id": "1234",
+      "name": "andres"
+    }
+  ],
+  "deliver_in": [
+    {
+      "address": "carrer_victoria_23",
+      "floor": "3_1",
+      "postal_code": "783643",
+      "locality": "badalona",
+      "number": "782361",
+      "note": "we don´t have elevator"
+    }
+  ]
+}]
